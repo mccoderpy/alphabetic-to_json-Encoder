@@ -1,7 +1,10 @@
 # alphabetic-to_json-Encoder
 convert an document in to an alphabetic json
+
 **Name:**                `alphabetic-to_JSON-encoder`
+
 **Sprache:**             `Python` 
+
 **Version:**              `1.0`
 
 **Beschreibung:**  
